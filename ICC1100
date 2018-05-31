@@ -1,0 +1,6 @@
+import sys
+import os
+Yo = str("No")
+Ella= str("me ama")
+c = :,v
+print(Yo+" "+Ella+" "+c)
